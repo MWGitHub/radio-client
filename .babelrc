@@ -1,0 +1,7 @@
+{
+  "presets": ["react", "env"],
+  "plugins": [
+    "transform-async-functions",
+    "transform-regenerator"    
+  ]
+}
